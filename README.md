@@ -2,7 +2,7 @@
 Instrutores: **Odemir Depieri Jr.**, **More Academy**
 
 Olá esse projeto foi desenvolvido utilizando Google Colab, seguindo as instruções do **Odemir Depieri Jr.** que foi o instrutor dessa MasterClass.
-Espero que gostem fico a disposição para responder alguma duvida! 
+Espero que gostem, fico a disposição para responder alguma duvida! 
 
 link para notebook colab:
 
